@@ -1,0 +1,7 @@
+node_modules
+dist
+out
+usy-project-studio
+.DS_Store
+.eslintcache
+*.log*
